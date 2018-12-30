@@ -2,5 +2,5 @@
 A sticky note using node and express
 
 $ git clone ~
-$ git install
+$ npm install
 $ git start
